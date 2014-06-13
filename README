@@ -1,0 +1,3 @@
+The existing qlparty.com (quality of life party) site.  Uses an older version of the brushfire framework.  
+
+Where I first introduced complex standardized CRUD operations (CRUDPage.php, usage see instance/utilities/section/event/EventModel.php)  and database modelling (DbModel.php) using special column names.

@@ -1,0 +1,3012 @@
+[
+	0 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Porto_Acre'
+	]
+	1 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Eirunepe'
+	]
+	2 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Rio_Branco'
+	]
+	3 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'Brazil/Acre'
+	]
+	4 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Porto_Acre'
+	]
+	5 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Eirunepe'
+	]
+	6 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Rio_Branco'
+	]
+	7 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'Brazil/Acre'
+	]
+	8 : [
+		'dst' : false
+		'offset' : -13840
+		'timezone_id' : 'America/Asuncion'
+	]
+	9 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Boa_Vista'
+	]
+	10 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Campo_Grande'
+	]
+	11 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Cuiaba'
+	]
+	12 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Eirunepe'
+	]
+	13 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Manaus'
+	]
+	14 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Porto_Acre'
+	]
+	15 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Porto_Velho'
+	]
+	16 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Rio_Branco'
+	]
+	17 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Santarem'
+	]
+	18 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Brazil/Acre'
+	]
+	19 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Brazil/West'
+	]
+	20 : [
+		'dst' : false
+		'offset' : -16200
+		'timezone_id' : 'America/Curacao'
+	]
+	21 : [
+		'dst' : false
+		'offset' : -16200
+		'timezone_id' : 'America/Aruba'
+	]
+	22 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Buenos_Aires'
+	]
+	23 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Buenos_Aires'
+	]
+	24 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Catamarca'
+	]
+	25 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/ComodRivadavia'
+	]
+	26 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Cordoba'
+	]
+	27 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Jujuy'
+	]
+	28 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/La_Rioja'
+	]
+	29 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Mendoza'
+	]
+	30 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Rio_Gallegos'
+	]
+	31 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Salta'
+	]
+	32 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/San_Juan'
+	]
+	33 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/San_Luis'
+	]
+	34 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Tucuman'
+	]
+	35 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Ushuaia'
+	]
+	36 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Catamarca'
+	]
+	37 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Cordoba'
+	]
+	38 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Jujuy'
+	]
+	39 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Mendoza'
+	]
+	40 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Rosario'
+	]
+	41 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Antarctica/Palmer'
+	]
+	42 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Anguilla'
+	]
+	43 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Antigua'
+	]
+	44 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Aruba'
+	]
+	45 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Barbados'
+	]
+	46 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Blanc-Sablon'
+	]
+	47 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Curacao'
+	]
+	48 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Dominica'
+	]
+	49 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Glace_Bay'
+	]
+	50 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Goose_Bay'
+	]
+	51 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Grenada'
+	]
+	52 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Guadeloupe'
+	]
+	53 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Halifax'
+	]
+	54 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Marigot'
+	]
+	55 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Martinique'
+	]
+	56 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Miquelon'
+	]
+	57 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Moncton'
+	]
+	58 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Montserrat'
+	]
+	59 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Pangnirtung'
+	]
+	60 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Port_of_Spain'
+	]
+	61 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Puerto_Rico'
+	]
+	62 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Santo_Domingo'
+	]
+	63 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/St_Barthelemy'
+	]
+	64 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/St_Kitts'
+	]
+	65 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/St_Lucia'
+	]
+	66 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/St_Thomas'
+	]
+	67 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/St_Vincent'
+	]
+	68 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Thule'
+	]
+	69 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Tortola'
+	]
+	70 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Virgin'
+	]
+	71 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Atlantic/Bermuda'
+	]
+	72 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Canada/Atlantic'
+	]
+	73 : [
+		'dst' : false
+		'offset' : -14308
+		'timezone_id' : 'America/Barbados'
+	]
+	74 : [
+		'dst' : false
+		'offset' : -17780
+		'timezone_id' : 'America/Bogota'
+	]
+	75 : [
+		'dst' : true
+		'offset' : -12756
+		'timezone_id' : 'America/La_Paz'
+	]
+	76 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/La_Paz'
+	]
+	77 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Rankin_Inlet'
+	]
+	78 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Resolute'
+	]
+	79 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Chicago'
+	]
+	80 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Havana'
+	]
+	81 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Resolute'
+	]
+	82 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Atikokan'
+	]
+	83 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Bahia_Banderas'
+	]
+	84 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Belize'
+	]
+	85 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	86 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Cancun'
+	]
+	87 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Chihuahua'
+	]
+	88 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Coral_Harbour'
+	]
+	89 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Costa_Rica'
+	]
+	90 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/El_Salvador'
+	]
+	91 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	92 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Guatemala'
+	]
+	93 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	94 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Knox'
+	]
+	95 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	96 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	97 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	98 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	99 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	100 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	101 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indianapolis'
+	]
+	102 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Iqaluit'
+	]
+	103 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	104 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	105 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Knox_IN'
+	]
+	106 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Louisville'
+	]
+	107 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Managua'
+	]
+	108 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Matamoros'
+	]
+	109 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Menominee'
+	]
+	110 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Merida'
+	]
+	111 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Mexico_City'
+	]
+	112 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Monterrey'
+	]
+	113 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	114 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	115 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Ojinaga'
+	]
+	116 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Pangnirtung'
+	]
+	117 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Rainy_River'
+	]
+	118 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Rankin_Inlet'
+	]
+	119 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Resolute'
+	]
+	120 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Tegucigalpa'
+	]
+	121 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Winnipeg'
+	]
+	122 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Canada/Central'
+	]
+	123 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Mexico/General'
+	]
+	124 : [
+		'dst' : true
+		'offset' : -19800
+		'timezone_id' : 'America/Belize'
+	]
+	125 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Santiago'
+	]
+	126 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'Chile/Continental'
+	]
+	127 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Santiago'
+	]
+	128 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Santiago'
+	]
+	129 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Antarctica/Palmer'
+	]
+	130 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Chile/Continental'
+	]
+	131 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'Chile/Continental'
+	]
+	132 : [
+		'dst' : false
+		'offset' : -14640
+		'timezone_id' : 'America/St_Lucia'
+	]
+	133 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Buenos_Aires'
+	]
+	134 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Catamarca'
+	]
+	135 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/ComodRivadavia'
+	]
+	136 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Cordoba'
+	]
+	137 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Jujuy'
+	]
+	138 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/La_Rioja'
+	]
+	139 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Mendoza'
+	]
+	140 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Rio_Gallegos'
+	]
+	141 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Salta'
+	]
+	142 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/San_Juan'
+	]
+	143 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/San_Luis'
+	]
+	144 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Tucuman'
+	]
+	145 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Argentina/Ushuaia'
+	]
+	146 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Buenos_Aires'
+	]
+	147 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Catamarca'
+	]
+	148 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Cordoba'
+	]
+	149 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Jujuy'
+	]
+	150 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Mendoza'
+	]
+	151 : [
+		'dst' : false
+		'offset' : -15408
+		'timezone_id' : 'America/Rosario'
+	]
+	152 : [
+		'dst' : false
+		'offset' : -16060
+		'timezone_id' : 'America/Caracas'
+	]
+	153 : [
+		'dst' : false
+		'offset' : -16356
+		'timezone_id' : 'America/La_Paz'
+	]
+	154 : [
+		'dst' : false
+		'offset' : -19176
+		'timezone_id' : 'America/Panama'
+	]
+	155 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Bogota'
+	]
+	156 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Bogota'
+	]
+	157 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Chicago'
+	]
+	158 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Atikokan'
+	]
+	159 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Coral_Harbour'
+	]
+	160 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	161 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	162 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Knox'
+	]
+	163 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	164 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	165 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	166 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	167 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	168 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	169 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indianapolis'
+	]
+	170 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	171 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	172 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Knox_IN'
+	]
+	173 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Louisville'
+	]
+	174 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Menominee'
+	]
+	175 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Rainy_River'
+	]
+	176 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Winnipeg'
+	]
+	177 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Canada/Central'
+	]
+	178 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Chicago'
+	]
+	179 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Havana'
+	]
+	180 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Atikokan'
+	]
+	181 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Bahia_Banderas'
+	]
+	182 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Belize'
+	]
+	183 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	184 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Cancun'
+	]
+	185 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Chihuahua'
+	]
+	186 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Coral_Harbour'
+	]
+	187 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Costa_Rica'
+	]
+	188 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Detroit'
+	]
+	189 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/El_Salvador'
+	]
+	190 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	191 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Guatemala'
+	]
+	192 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Hermosillo'
+	]
+	193 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	194 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Knox'
+	]
+	195 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	196 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	197 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	198 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	199 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	200 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	201 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Indianapolis'
+	]
+	202 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Iqaluit'
+	]
+	203 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	204 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	205 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Knox_IN'
+	]
+	206 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Louisville'
+	]
+	207 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Managua'
+	]
+	208 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Matamoros'
+	]
+	209 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Mazatlan'
+	]
+	210 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Menominee'
+	]
+	211 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Merida'
+	]
+	212 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Mexico_City'
+	]
+	213 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Monterrey'
+	]
+	214 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	215 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	216 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Ojinaga'
+	]
+	217 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Pangnirtung'
+	]
+	218 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Rainy_River'
+	]
+	219 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Rankin_Inlet'
+	]
+	220 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Regina'
+	]
+	221 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Resolute'
+	]
+	222 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Swift_Current'
+	]
+	223 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Tegucigalpa'
+	]
+	224 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Thunder_Bay'
+	]
+	225 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'America/Winnipeg'
+	]
+	226 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Canada/Central'
+	]
+	227 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	228 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	229 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Mexico/BajaSur'
+	]
+	230 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Mexico/General'
+	]
+	231 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Chicago'
+	]
+	232 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Atikokan'
+	]
+	233 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Coral_Harbour'
+	]
+	234 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	235 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	236 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Knox'
+	]
+	237 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	238 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	239 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	240 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	241 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	242 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	243 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Indianapolis'
+	]
+	244 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	245 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	246 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Knox_IN'
+	]
+	247 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Louisville'
+	]
+	248 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Menominee'
+	]
+	249 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Mexico_City'
+	]
+	250 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Rainy_River'
+	]
+	251 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Winnipeg'
+	]
+	252 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Canada/Central'
+	]
+	253 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Mexico/General'
+	]
+	254 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Chile/EasterIsland'
+	]
+	255 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Chile/EasterIsland'
+	]
+	256 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'Pacific/Easter'
+	]
+	257 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Pacific/Easter'
+	]
+	258 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Chile/EasterIsland'
+	]
+	259 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Chile/EasterIsland'
+	]
+	260 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Pacific/Easter'
+	]
+	261 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Pacific/Easter'
+	]
+	262 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Guayaquil'
+	]
+	263 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'Pacific/Galapagos'
+	]
+	264 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/New_York'
+	]
+	265 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Cancun'
+	]
+	266 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Detroit'
+	]
+	267 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	268 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Grand_Turk'
+	]
+	269 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	270 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	271 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	272 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	273 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	274 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	275 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	276 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Indianapolis'
+	]
+	277 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Iqaluit'
+	]
+	278 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Jamaica'
+	]
+	279 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	280 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	281 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Louisville'
+	]
+	282 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Montreal'
+	]
+	283 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Nassau'
+	]
+	284 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Nipigon'
+	]
+	285 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Pangnirtung'
+	]
+	286 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Port-au-Prince'
+	]
+	287 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Santo_Domingo'
+	]
+	288 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Thunder_Bay'
+	]
+	289 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Toronto'
+	]
+	290 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'Canada/Eastern'
+	]
+	291 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'EST'
+	]
+	292 : [
+		'dst' : true
+		'offset' : -16200
+		'timezone_id' : 'America/Santo_Domingo'
+	]
+	293 : [
+		'dst' : false
+		'offset' : -26248
+		'timezone_id' : 'Chile/EasterIsland'
+	]
+	294 : [
+		'dst' : false
+		'offset' : -26248
+		'timezone_id' : 'Pacific/Easter'
+	]
+	295 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/New_York'
+	]
+	296 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Detroit'
+	]
+	297 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Iqaluit'
+	]
+	298 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Montreal'
+	]
+	299 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Nipigon'
+	]
+	300 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Thunder_Bay'
+	]
+	301 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Toronto'
+	]
+	302 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'Canada/Eastern'
+	]
+	303 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'EST'
+	]
+	304 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/New_York'
+	]
+	305 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Antigua'
+	]
+	306 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Atikokan'
+	]
+	307 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	308 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Cancun'
+	]
+	309 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Cayman'
+	]
+	310 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Chicago'
+	]
+	311 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Coral_Harbour'
+	]
+	312 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Detroit'
+	]
+	313 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Fort_Wayne'
+	]
+	314 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Grand_Turk'
+	]
+	315 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Indianapolis'
+	]
+	316 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Knox'
+	]
+	317 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Marengo'
+	]
+	318 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Petersburg'
+	]
+	319 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Tell_City'
+	]
+	320 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vevay'
+	]
+	321 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Vincennes'
+	]
+	322 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indiana/Winamac'
+	]
+	323 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Indianapolis'
+	]
+	324 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Iqaluit'
+	]
+	325 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Jamaica'
+	]
+	326 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Louisville'
+	]
+	327 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Kentucky/Monticello'
+	]
+	328 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Knox_IN'
+	]
+	329 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Louisville'
+	]
+	330 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Managua'
+	]
+	331 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Menominee'
+	]
+	332 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Merida'
+	]
+	333 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Moncton'
+	]
+	334 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Montreal'
+	]
+	335 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Nassau'
+	]
+	336 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Nipigon'
+	]
+	337 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Panama'
+	]
+	338 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Pangnirtung'
+	]
+	339 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Port-au-Prince'
+	]
+	340 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Rankin_Inlet'
+	]
+	341 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Resolute'
+	]
+	342 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Santo_Domingo'
+	]
+	343 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Thunder_Bay'
+	]
+	344 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Toronto'
+	]
+	345 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'Canada/Eastern'
+	]
+	346 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'EST'
+	]
+	347 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/New_York'
+	]
+	348 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Detroit'
+	]
+	349 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Iqaluit'
+	]
+	350 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Montreal'
+	]
+	351 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Nipigon'
+	]
+	352 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Thunder_Bay'
+	]
+	353 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Toronto'
+	]
+	354 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'Canada/Eastern'
+	]
+	355 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'EST'
+	]
+	356 : [
+		'dst' : false
+		'offset' : -14660
+		'timezone_id' : 'America/Martinique'
+	]
+	357 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'Atlantic/Stanley'
+	]
+	358 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : 'Pacific/Galapagos'
+	]
+	359 : [
+		'dst' : false
+		'offset' : -13500
+		'timezone_id' : 'America/Guyana'
+	]
+	360 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Cayenne'
+	]
+	361 : [
+		'dst' : false
+		'offset' : -13500
+		'timezone_id' : 'America/Guyana'
+	]
+	362 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Guyana'
+	]
+	363 : [
+		'dst' : false
+		'offset' : -19776
+		'timezone_id' : 'America/Havana'
+	]
+	364 : [
+		'dst' : false
+		'offset' : -14696
+		'timezone_id' : 'America/St_Vincent'
+	]
+	365 : [
+		'dst' : false
+		'offset' : -18432
+		'timezone_id' : 'America/Cayman'
+	]
+	366 : [
+		'dst' : false
+		'offset' : -18432
+		'timezone_id' : 'America/Grand_Turk'
+	]
+	367 : [
+		'dst' : false
+		'offset' : -18432
+		'timezone_id' : 'America/Jamaica'
+	]
+	368 : [
+		'dst' : false
+		'offset' : -11188
+		'timezone_id' : 'America/Sao_Paulo'
+	]
+	369 : [
+		'dst' : false
+		'offset' : -11188
+		'timezone_id' : 'Brazil/East'
+	]
+	370 : [
+		'dst' : false
+		'offset' : -11568
+		'timezone_id' : 'America/Araguaina'
+	]
+	371 : [
+		'dst' : false
+		'offset' : -11636
+		'timezone_id' : 'America/Belem'
+	]
+	372 : [
+		'dst' : false
+		'offset' : -12416
+		'timezone_id' : 'America/Godthab'
+	]
+	373 : [
+		'dst' : false
+		'offset' : -12560
+		'timezone_id' : 'America/Cayenne'
+	]
+	374 : [
+		'dst' : false
+		'offset' : -13108
+		'timezone_id' : 'America/Campo_Grande'
+	]
+	375 : [
+		'dst' : false
+		'offset' : -13128
+		'timezone_id' : 'America/Santarem'
+	]
+	376 : [
+		'dst' : false
+		'offset' : -13240
+		'timezone_id' : 'America/Paramaribo'
+	]
+	377 : [
+		'dst' : false
+		'offset' : -13460
+		'timezone_id' : 'America/Cuiaba'
+	]
+	378 : [
+		'dst' : false
+		'offset' : -13480
+		'timezone_id' : 'America/Miquelon'
+	]
+	379 : [
+		'dst' : false
+		'offset' : -13960
+		'timezone_id' : 'America/Guyana'
+	]
+	380 : [
+		'dst' : false
+		'offset' : -14308
+		'timezone_id' : 'America/Barbados'
+	]
+	381 : [
+		'dst' : false
+		'offset' : -14388
+		'timezone_id' : 'America/Glace_Bay'
+	]
+	382 : [
+		'dst' : false
+		'offset' : -14404
+		'timezone_id' : 'America/Manaus'
+	]
+	383 : [
+		'dst' : false
+		'offset' : -14404
+		'timezone_id' : 'Brazil/West'
+	]
+	384 : [
+		'dst' : false
+		'offset' : -14560
+		'timezone_id' : 'America/Boa_Vista'
+	]
+	385 : [
+		'dst' : false
+		'offset' : -14736
+		'timezone_id' : 'America/Dominica'
+	]
+	386 : [
+		'dst' : false
+		'offset' : -14764
+		'timezone_id' : 'America/Port_of_Spain'
+	]
+	387 : [
+		'dst' : false
+		'offset' : -14768
+		'timezone_id' : 'America/Guadeloupe'
+	]
+	388 : [
+		'dst' : false
+		'offset' : -14768
+		'timezone_id' : 'America/Marigot'
+	]
+	389 : [
+		'dst' : false
+		'offset' : -14768
+		'timezone_id' : 'America/St_Barthelemy'
+	]
+	390 : [
+		'dst' : false
+		'offset' : -14820
+		'timezone_id' : 'America/Grenada'
+	]
+	391 : [
+		'dst' : false
+		'offset' : -14832
+		'timezone_id' : 'America/Antigua'
+	]
+	392 : [
+		'dst' : false
+		'offset' : -14932
+		'timezone_id' : 'America/Montserrat'
+	]
+	393 : [
+		'dst' : false
+		'offset' : -15052
+		'timezone_id' : 'America/St_Kitts'
+	]
+	394 : [
+		'dst' : false
+		'offset' : -15136
+		'timezone_id' : 'America/Anguilla'
+	]
+	395 : [
+		'dst' : false
+		'offset' : -15264
+		'timezone_id' : 'America/Halifax'
+	]
+	396 : [
+		'dst' : false
+		'offset' : -15264
+		'timezone_id' : 'Canada/Atlantic'
+	]
+	397 : [
+		'dst' : false
+		'offset' : -15336
+		'timezone_id' : 'America/Porto_Velho'
+	]
+	398 : [
+		'dst' : false
+		'offset' : -15508
+		'timezone_id' : 'America/Tortola'
+	]
+	399 : [
+		'dst' : false
+		'offset' : -15544
+		'timezone_id' : 'Atlantic/Bermuda'
+	]
+	400 : [
+		'dst' : false
+		'offset' : -15584
+		'timezone_id' : 'America/St_Thomas'
+	]
+	401 : [
+		'dst' : false
+		'offset' : -15584
+		'timezone_id' : 'America/Virgin'
+	]
+	402 : [
+		'dst' : false
+		'offset' : -16272
+		'timezone_id' : 'America/Porto_Acre'
+	]
+	403 : [
+		'dst' : false
+		'offset' : -16272
+		'timezone_id' : 'America/Rio_Branco'
+	]
+	404 : [
+		'dst' : false
+		'offset' : -16272
+		'timezone_id' : 'Brazil/Acre'
+	]
+	405 : [
+		'dst' : false
+		'offset' : -16508
+		'timezone_id' : 'America/Thule'
+	]
+	406 : [
+		'dst' : false
+		'offset' : -16544
+		'timezone_id' : 'America/Curacao'
+	]
+	407 : [
+		'dst' : false
+		'offset' : -16768
+		'timezone_id' : 'America/Eirunepe'
+	]
+	408 : [
+		'dst' : false
+		'offset' : -16824
+		'timezone_id' : 'America/Aruba'
+	]
+	409 : [
+		'dst' : false
+		'offset' : -18516
+		'timezone_id' : 'America/Lima'
+	]
+	410 : [
+		'dst' : false
+		'offset' : -18564
+		'timezone_id' : 'America/Nassau'
+	]
+	411 : [
+		'dst' : false
+		'offset' : -19931
+		'timezone_id' : 'America/Detroit'
+	]
+	412 : [
+		'dst' : false
+		'offset' : -20824
+		'timezone_id' : 'America/Cancun'
+	]
+	413 : [
+		'dst' : false
+		'offset' : -20932
+		'timezone_id' : 'America/Tegucigalpa'
+	]
+	414 : [
+		'dst' : false
+		'offset' : -21168
+		'timezone_id' : 'America/Belize'
+	]
+	415 : [
+		'dst' : false
+		'offset' : -21408
+		'timezone_id' : 'America/El_Salvador'
+	]
+	416 : [
+		'dst' : false
+		'offset' : -21504
+		'timezone_id' : 'Pacific/Galapagos'
+	]
+	417 : [
+		'dst' : false
+		'offset' : -21508
+		'timezone_id' : 'America/Merida'
+	]
+	418 : [
+		'dst' : false
+		'offset' : -21724
+		'timezone_id' : 'America/Guatemala'
+	]
+	419 : [
+		'dst' : false
+		'offset' : -23796
+		'timezone_id' : 'America/Mexico_City'
+	]
+	420 : [
+		'dst' : false
+		'offset' : -23796
+		'timezone_id' : 'Mexico/General'
+	]
+	421 : [
+		'dst' : false
+		'offset' : -24000
+		'timezone_id' : 'America/Matamoros'
+	]
+	422 : [
+		'dst' : false
+		'offset' : -24076
+		'timezone_id' : 'America/Monterrey'
+	]
+	423 : [
+		'dst' : false
+		'offset' : -25060
+		'timezone_id' : 'America/Ojinaga'
+	]
+	424 : [
+		'dst' : false
+		'offset' : -25116
+		'timezone_id' : 'America/Regina'
+	]
+	425 : [
+		'dst' : false
+		'offset' : -25116
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	426 : [
+		'dst' : false
+		'offset' : -25116
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	427 : [
+		'dst' : false
+		'offset' : -25260
+		'timezone_id' : 'America/Bahia_Banderas'
+	]
+	428 : [
+		'dst' : false
+		'offset' : -25460
+		'timezone_id' : 'America/Chihuahua'
+	]
+	429 : [
+		'dst' : false
+		'offset' : -25540
+		'timezone_id' : 'America/Mazatlan'
+	]
+	430 : [
+		'dst' : false
+		'offset' : -25540
+		'timezone_id' : 'Mexico/BajaSur'
+	]
+	431 : [
+		'dst' : false
+		'offset' : -25880
+		'timezone_id' : 'America/Swift_Current'
+	]
+	432 : [
+		'dst' : false
+		'offset' : -26632
+		'timezone_id' : 'America/Hermosillo'
+	]
+	433 : [
+		'dst' : false
+		'offset' : -27232
+		'timezone_id' : 'America/Edmonton'
+	]
+	434 : [
+		'dst' : false
+		'offset' : -27232
+		'timezone_id' : 'Canada/Mountain'
+	]
+	435 : [
+		'dst' : false
+		'offset' : -27568
+		'timezone_id' : 'America/Santa_Isabel'
+	]
+	436 : [
+		'dst' : false
+		'offset' : -28084
+		'timezone_id' : 'America/Ensenada'
+	]
+	437 : [
+		'dst' : false
+		'offset' : -28084
+		'timezone_id' : 'America/Tijuana'
+	]
+	438 : [
+		'dst' : false
+		'offset' : -28084
+		'timezone_id' : 'Mexico/BajaNorte'
+	]
+	439 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	440 : [
+		'dst' : true
+		'offset' : -18000
+		'timezone_id' : 'America/Yellowknife'
+	]
+	441 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Denver'
+	]
+	442 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Bahia_Banderas'
+	]
+	443 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Boise'
+	]
+	444 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	445 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Chihuahua'
+	]
+	446 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Edmonton'
+	]
+	447 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Hermosillo'
+	]
+	448 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Inuvik'
+	]
+	449 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Mazatlan'
+	]
+	450 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	451 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	452 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Ojinaga'
+	]
+	453 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Phoenix'
+	]
+	454 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Regina'
+	]
+	455 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Shiprock'
+	]
+	456 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Swift_Current'
+	]
+	457 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Yellowknife'
+	]
+	458 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	459 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Mountain'
+	]
+	460 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	461 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Mexico/BajaSur'
+	]
+	462 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'MST'
+	]
+	463 : [
+		'dst' : false
+		'offset' : -13484
+		'timezone_id' : 'America/Montevideo'
+	]
+	464 : [
+		'dst' : false
+		'offset' : -20712
+		'timezone_id' : 'America/Managua'
+	]
+	465 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Denver'
+	]
+	466 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Boise'
+	]
+	467 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	468 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Edmonton'
+	]
+	469 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	470 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	471 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Regina'
+	]
+	472 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Shiprock'
+	]
+	473 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Swift_Current'
+	]
+	474 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Yellowknife'
+	]
+	475 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	476 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Mountain'
+	]
+	477 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	478 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'MST'
+	]
+	479 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Denver'
+	]
+	480 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Bahia_Banderas'
+	]
+	481 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Boise'
+	]
+	482 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	483 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Chihuahua'
+	]
+	484 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson_Creek'
+	]
+	485 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Edmonton'
+	]
+	486 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Ensenada'
+	]
+	487 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Hermosillo'
+	]
+	488 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Inuvik'
+	]
+	489 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Mazatlan'
+	]
+	490 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Mexico_City'
+	]
+	491 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	492 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	493 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Ojinaga'
+	]
+	494 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Phoenix'
+	]
+	495 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Regina'
+	]
+	496 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Santa_Isabel'
+	]
+	497 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Shiprock'
+	]
+	498 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Swift_Current'
+	]
+	499 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Tijuana'
+	]
+	500 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'America/Yellowknife'
+	]
+	501 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	502 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Canada/Mountain'
+	]
+	503 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	504 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Mexico/BajaNorte'
+	]
+	505 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Mexico/BajaSur'
+	]
+	506 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'Mexico/General'
+	]
+	507 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : 'MST'
+	]
+	508 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Denver'
+	]
+	509 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Boise'
+	]
+	510 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Cambridge_Bay'
+	]
+	511 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Edmonton'
+	]
+	512 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/Center'
+	]
+	513 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/North_Dakota/New_Salem'
+	]
+	514 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Phoenix'
+	]
+	515 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Regina'
+	]
+	516 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Shiprock'
+	]
+	517 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Swift_Current'
+	]
+	518 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Yellowknife'
+	]
+	519 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/East-Saskatchewan'
+	]
+	520 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Mountain'
+	]
+	521 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'Canada/Saskatchewan'
+	]
+	522 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'MST'
+	]
+	523 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'America/Paramaribo'
+	]
+	524 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'America/St_Johns'
+	]
+	525 : [
+		'dst' : false
+		'offset' : -12652
+		'timezone_id' : 'America/St_Johns'
+	]
+	526 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'America/Goose_Bay'
+	]
+	527 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'Canada/Newfoundland'
+	]
+	528 : [
+		'dst' : false
+		'offset' : -12652
+		'timezone_id' : 'America/Goose_Bay'
+	]
+	529 : [
+		'dst' : false
+		'offset' : -12652
+		'timezone_id' : 'Canada/Newfoundland'
+	]
+	530 : [
+		'dst' : true
+		'offset' : -21600
+		'timezone_id' : 'America/Inuvik'
+	]
+	531 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Los_Angeles'
+	]
+	532 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Boise'
+	]
+	533 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson'
+	]
+	534 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson_Creek'
+	]
+	535 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Ensenada'
+	]
+	536 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Juneau'
+	]
+	537 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Santa_Isabel'
+	]
+	538 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Tijuana'
+	]
+	539 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Vancouver'
+	]
+	540 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Whitehorse'
+	]
+	541 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Canada/Pacific'
+	]
+	542 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Canada/Yukon'
+	]
+	543 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Mexico/BajaNorte'
+	]
+	544 : [
+		'dst' : true
+		'offset' : -14400
+		'timezone_id' : 'America/Lima'
+	]
+	545 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : 'America/Lima'
+	]
+	546 : [
+		'dst' : false
+		'offset' : -13236
+		'timezone_id' : 'America/Paramaribo'
+	]
+	547 : [
+		'dst' : false
+		'offset' : -13252
+		'timezone_id' : 'America/Paramaribo'
+	]
+	548 : [
+		'dst' : false
+		'offset' : -17340
+		'timezone_id' : 'America/Port-au-Prince'
+	]
+	549 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Los_Angeles'
+	]
+	550 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson_Creek'
+	]
+	551 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Ensenada'
+	]
+	552 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Juneau'
+	]
+	553 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Santa_Isabel'
+	]
+	554 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Tijuana'
+	]
+	555 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Vancouver'
+	]
+	556 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Canada/Pacific'
+	]
+	557 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Mexico/BajaNorte'
+	]
+	558 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Los_Angeles'
+	]
+	559 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson_Creek'
+	]
+	560 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Ensenada'
+	]
+	561 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Juneau'
+	]
+	562 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Santa_Isabel'
+	]
+	563 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Tijuana'
+	]
+	564 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Vancouver'
+	]
+	565 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Canada/Pacific'
+	]
+	566 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Mexico/BajaNorte'
+	]
+	567 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Asuncion'
+	]
+	568 : [
+		'dst' : false
+		'offset' : -18840
+		'timezone_id' : 'America/Guayaquil'
+	]
+	569 : [
+		'dst' : false
+		'offset' : -16800
+		'timezone_id' : 'America/Santo_Domingo'
+	]
+	570 : [
+		'dst' : false
+		'offset' : -20180
+		'timezone_id' : 'America/Costa_Rica'
+	]
+	571 : [
+		'dst' : false
+		'offset' : -13884
+		'timezone_id' : 'Atlantic/Stanley'
+	]
+	572 : [
+		'dst' : false
+		'offset' : -16966
+		'timezone_id' : 'America/Santiago'
+	]
+	573 : [
+		'dst' : false
+		'offset' : -16966
+		'timezone_id' : 'Chile/Continental'
+	]
+	574 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'America/Paramaribo'
+	]
+	575 : [
+		'dst' : false
+		'offset' : -12600
+		'timezone_id' : 'America/Montevideo'
+	]
+	576 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Caracas'
+	]
+	577 : [
+		'dst' : false
+		'offset' : -16200
+		'timezone_id' : 'America/Caracas'
+	]
+	578 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Mendoza'
+	]
+	579 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Catamarca'
+	]
+	580 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/ComodRivadavia'
+	]
+	581 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Cordoba'
+	]
+	582 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Jujuy'
+	]
+	583 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/La_Rioja'
+	]
+	584 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Mendoza'
+	]
+	585 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Rio_Gallegos'
+	]
+	586 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Salta'
+	]
+	587 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/San_Juan'
+	]
+	588 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/San_Luis'
+	]
+	589 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Tucuman'
+	]
+	590 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Argentina/Ushuaia'
+	]
+	591 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Catamarca'
+	]
+	592 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Cordoba'
+	]
+	593 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Jujuy'
+	]
+	594 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : 'America/Rosario'
+	]
+	595 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Dawson'
+	]
+	596 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'America/Whitehorse'
+	]
+	597 : [
+		'dst' : true
+		'offset' : -25200
+		'timezone_id' : 'Canada/Yukon'
+	]
+	598 : [
+		'dst' : false
+		'offset' : -14400
+		'timezone_id' : NULL
+	]
+	599 : [
+		'dst' : false
+		'offset' : -18000
+		'timezone_id' : NULL
+	]
+	600 : [
+		'dst' : false
+		'offset' : -21600
+		'timezone_id' : NULL
+	]
+	601 : [
+		'dst' : false
+		'offset' : -25200
+		'timezone_id' : NULL
+	]
+]
